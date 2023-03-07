@@ -8,8 +8,8 @@ require (
 	github.com/creativeprojects/go-selfupdate v0.6.1
 	github.com/getsentry/sentry-go v0.13.0
 	github.com/gocolly/colly v1.2.0
-	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150
-	golang.org/x/text v0.3.7
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.7.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 )
 
@@ -42,10 +42,10 @@ require (
 	github.com/stretchr/testify v1.7.1 // indirect
 	github.com/temoto/robotstxt v1.1.2 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
-	github.com/yuin/goldmark v1.4.12 // indirect
+	github.com/yuin/goldmark v1.4.13 // indirect
 	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f // indirect
-	golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9 // indirect
-	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
+	golang.org/x/image v0.5.0 // indirect
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
