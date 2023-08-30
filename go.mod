@@ -10,7 +10,7 @@ require (
 	github.com/gocolly/colly v1.2.0
 	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150
 	golang.org/x/text v0.3.7
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 require (
